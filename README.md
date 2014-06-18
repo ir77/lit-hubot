@@ -2,6 +2,8 @@
 
 omatty参上!!;)
 
+ucchy参上!!;)
+
 Lit-Hubot is a chatting bot for LiT! slack. he is a nice facilitator and cool guy.
 
 
